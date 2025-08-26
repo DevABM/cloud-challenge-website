@@ -6,7 +6,7 @@
 
         body {
             font-family: 'Arial', sans-serif;
-            background: linear-gradient(120deg, #5f79eb 0%, #71449d 100%);
+            background: linear-gradient(120deg, #2647d9 0%, #71449d 100%);
             color: white;
             overflow-x: hidden;
         }
@@ -104,7 +104,7 @@
         .welcome-text {
             font-size: 1rem;
             margin: 0;
-            background: linear-gradient(240deg, #cb1a41, #148230, #9445d1);
+            background: linear-gradient( #cb1a41, #9445d1);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
@@ -136,8 +136,8 @@
 
         .hero h1 {
             font-size: 4rem;
-            margin-bottom: 1rem;
-            background: linear-gradient(45deg, #e20f0f, #215a56, #7c2794);
+            margin-bottom: 3rem;
+            background: linear-gradient(45deg, #92ab2c, #8bcb80);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
@@ -146,7 +146,7 @@
 
         .hero p {
             font-size: 1.2rem;
-            margin-bottom: 2rem;
+            margin-bottom: 1rem;
             opacity: 0.9;
         }
 
@@ -269,7 +269,7 @@
         }
 
         .skill-icon {
-            font-size: 3rem;
+            font-size: 4rem;
             margin-bottom: 1rem;
             display: block;
         }
@@ -297,11 +297,11 @@
         .project-image {
             width: 100%;
             height: 100px;
-            background: rgba(218, 67, 198, 0.15);
+            background: rgba(8, 195, 233, 0.15);
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 1rem;
+            font-size: 4rem;
             color: white;
         }
 
